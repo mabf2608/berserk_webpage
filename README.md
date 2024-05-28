@@ -1,6 +1,5 @@
-<h1 align="center">Proyecto fin de evaluación de Lenguajes de Marcas - 1º DAM</h1>
-<h2 align="center">Jujutsu Kaisen - A tribute site</h2>
-<h2>Indice</h2>
+<h1 align="center">Jujutsu Kaisen - A tribute site</h2>
+<h2 align="center">Indice</h2>
 <ul>
   <li><a href="#introduccion">Introducción</a></li>
   <li><a href="#motivacion">Motivación</a></li>

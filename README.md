@@ -9,7 +9,7 @@
 
 <h2 id="introduccion">Introducción</h2>
 <p>- Trabajo realizado en clase por: Miguel Ángel Bonilla Fernández</p>
-<p>- Proyecto de web "from scratch" de 1ª evaluación de Lenguajes de Marcas</p>
+<p>- Proyecto de web "from scratch"</p>
 <p>- Diciembre de 2023</p>
 <p>- Licencia CC-BY</p>
 
